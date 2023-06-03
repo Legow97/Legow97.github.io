@@ -1,3 +1,7 @@
-"engines": {
-  "node": "14.x"
+{
+  "name": "spring-deploy",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "demo-0.0.1-SNAPSHOT.jar"
+  }
 }
